@@ -17,19 +17,23 @@ Last updated: 2026-10-19
 - [x] Created 8 specialized ChatGPT project chats
 - [x] Added README.md
 - [x] Created the first Git commit
+- [x] Added AI_Music_Studio_Master_Plan_v0.3.md
+- [x] Added DECISIONS.md
+- [x] Added CHANGELOG.md
+- [x] Established initial project decisions and time estimates
 
 ## Current Task
 
-Create CURRENT_STATUS.md to track project progress.
+Set up the local project workspace and connect it to GitHub.
 
 ## Next Tasks
 
-- [ ] Add the master plan to the repository
-- [ ] Create the project documentation structure
-- [ ] Set up local Git repository on macOS
+- [ ] Clone the GitHub repository to macOS
+- [ ] Create project folders and documentation structure
 - [ ] Establish audio asset storage and backup strategy
 - [ ] Verify backup and recovery
-
+- [ ] Confirm Phase 0 completion
+      
 ## Release 001
 
 - Billboard reference: Not selected
@@ -42,15 +46,22 @@ Create CURRENT_STATUS.md to track project progress.
 - Mixing and mastering: Not started
 - Quality assurance: Not started
 
+## Production Resources
+
+- MacBook Air M4, 24 GB RAM
+- Acoustic guitar: Available
+- Electric guitar: Requires repair
+- iPhone: Available for recording
+
+## Planning Estimates
+
+- First listenable music prototype: 5–10 active music-production hours
+- First finished track: 40–80 total active hours
+- These estimates are provisional, not deadlines
+
 ## Decisions
 
-- Quality over quantity
-- Human-in-the-loop creative decisions
-- Rick Rubin-inspired minimalism
-- Small, verified development steps
-- GitHub as the source of truth for documentation
-- Original music only; reference analysis must not become copying
-- Marketing and monetization deferred
+See DECISIONS.md for approved decisions and rationale.
 
 ## Blockers
 
@@ -58,4 +69,4 @@ None currently identified.
 
 ## Next Action
 
-Add the master plan and initialize project documentation.
+Clone the repository onto the MacBook and verify the connection to GitHub.
