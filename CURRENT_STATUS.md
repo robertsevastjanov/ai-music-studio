@@ -68,3 +68,14 @@ None currently identified.
 ## Next Action
 
 Return to Project Manager to select the next task. Manual restore passed; automatic backups are not active.
+
+## Music research — 2026-10-20
+
+- Первый учебный разбор Dilemma завершён.
+- Карточка: `knowledge/references/dilemma-2002.md`, отправлена в GitHub.
+- Предварительная карта структуры составлена.
+- Открытые проверки документированы; независимая проверка аудио не выполнена.
+- Следующий шаг: первый ограниченный разбор Champion.
+- Release 001: концепция не утверждена.
+- Phase 0: открыта; rclone отложен.
+- `DECISIONS.md`: без изменений.
