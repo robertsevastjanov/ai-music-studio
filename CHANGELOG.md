@@ -31,3 +31,20 @@ and verification results.
 - Local Git setup is pending.
 - Audio storage and backups are not yet configured.
 - No musical production has started.
+
+## 2026-10-19 — Local workspace setup
+
+### Added
+- Cloned the repository to computer.
+- Added prompts/, knowledge/, scripts/, and releases/release-001/ with README files.
+- Added .gitignore for macOS .DS_Store files.
+
+### Verification
+- Git 2.55.0 is installed.
+- SSH authentication to GitHub succeeded as robertsevastjanov.
+- Commit 4410e46 was pushed to origin/main.
+- Confirmed main matches origin/main and the working tree is clean after the push.
+
+### Notes
+- Audio asset storage and backups are not yet configured.
+- Phase 0 remains in progress.
