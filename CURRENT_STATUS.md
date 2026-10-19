@@ -23,7 +23,7 @@ Last updated: 2026-10-19
 - [x] Established initial project decisions and time estimates
 
 ## Current Task
-Complete Phase 0 documentation; local cloning, SSH access, and base project folders are verified.
+Use manual versioned Google Drive backups; rclone automation is paused due to unresolved OAuth authorization.
 
 ## Next Tasks
 - [x] Clone the GitHub repository to macOS
@@ -67,4 +67,4 @@ None currently identified.
 
 ## Next Action
 
-Return to Project Manager with the local setup summary and confirm the next Phase 0 task.
+Return to Project Manager to select the next task. Manual restore passed; automatic backups are not active.

@@ -48,3 +48,14 @@ and verification results.
 ### Notes
 - Audio asset storage and backups are not yet configured.
 - Phase 0 remains in progress.
+
+## 2026-10-19 — Backup automation paused
+
+- Local audio assets: ~/Projects/ai-music-studio-assets/release-001/
+- Google Drive backup folder: AI Music Studio Backups/release-001/
+- Manual upload and restore test passed: BACKUP RESTORE OK.
+- Installed rclone 1.75.2; Google OAuth authorization remains unresolved.
+- Stopped configuration; automatic backups are not active.
+- Continue manual backups into separate timestamped folders; retain earlier copies.
+- Before resuming OAuth setup, replace the client secret shared in chat. Do not store credentials in Git.
+- Phase 0 remains in progress; automated backup and recovery are not yet verified.
