@@ -79,3 +79,14 @@ Return to Project Manager to select the next task. Manual restore passed; automa
 - Release 001: концепция не утверждена.
 - Phase 0: открыта; rclone отложен.
 - `DECISIONS.md`: без изменений.
+
+## Music research — 2026-10-22
+
+- Первый учебный разбор Champion завершён.
+- Карточка: `knowledge/references/champion-2007.md`.
+- Слуховые наблюдения независимо не проверены; точные источники звуков не установлены.
+- Исследования Dilemma и Champion достаточны для перехода к первому музыкальному эксперименту.
+- Следующий этап — небольшой оригинальный прототип в GarageBand, только после подтверждения Project Manager.
+- Концепция Release 001 не утверждена.
+- Phase 0 открыта; rclone отложен.
+- `DECISIONS.md`: без изменений.
